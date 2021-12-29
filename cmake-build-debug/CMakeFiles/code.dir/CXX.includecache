@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../point.h
+
+Z:/CSCI 262/Project_2_Mazes/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+maze_solver.h
+Z:/CSCI 262/Project_2_Mazes/maze_solver.h
+
+Z:/CSCI 262/Project_2_Mazes/maze_solver.h
+iostream
+-
+vector
+-
+stack
+-
+queue
+-
+point.h
+-
+
